@@ -1,1 +1,1 @@
-# arm_gemm
+# General matrix multiplication for ARM architecture
