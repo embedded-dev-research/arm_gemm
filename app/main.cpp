@@ -1,6 +1,8 @@
 // Copyright 2021 Embedded Dev Research
-#include <iostream>
 #include "arm_gemm.hpp"
+
 int main(int argc, char** argv) {
-    return 0;
+    std::vector<double> a;
+    std::vector<double> b;
+    auto c = arm_gemm(a, b);
 }
