@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
 
+cmake-build*
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +31,5 @@
 *.exe
 *.out
 *.app
+
+.idea
